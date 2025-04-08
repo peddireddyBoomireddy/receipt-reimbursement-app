@@ -2,23 +2,7 @@
 
 This project is a simple web application that allows university employees to submit receipts for reimbursement. It consists of a frontend built with Angular and a backend API built with .NET.
 
-## Project Structure
 
-```
-receipt-reimbursement-app
-├── backend                # Backend API
-│   ├── Controllers        # Contains API controllers
-│   ├── Data              # Database context and migrations
-│   ├── Models            # Data models
-│   ├── Program.cs        # Entry point for the backend application
-│   ├── Startup.cs        # Configures services and middleware
-│   └── appsettings.json   # Configuration settings
-├── frontend               # Frontend application
-│   ├── src               # Source files for the Angular app
-│   ├── package.json      # NPM dependencies and scripts
-│   └── tsconfig.json     # TypeScript configuration
-└── .gitignore            # Files to ignore in Git
-```
 
 ## Prerequisites
 
@@ -73,8 +57,8 @@ receipt-reimbursement-app
 
 ## Estimated Time
 
-- Estimated hours: 8 hours
-- Actual hours: [To be filled after completion]
+- Estimated hours: 4 hours
+- Actual hours: 5
 
 ## Tech Stack Justification
 
