@@ -1,0 +1,36 @@
+{
+  "name": "receipt-reimbursement-app",
+  "version": "1.0.0",
+  "description": "A web application for employees to submit receipts for reimbursement.",
+  "main": "index.js",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build",
+    "test": "ng test",
+    "lint": "ng lint",
+    "e2e": "ng e2e"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/common": "~13.0.0",
+    "@angular/core": "~13.0.0",
+    "@angular/forms": "~13.0.0",
+    "@angular/platform-browser": "~13.0.0",
+    "@angular/platform-browser-dynamic": "~13.0.0",
+    "@angular/router": "~13.0.0",
+    "rxjs": "~6.5.5",
+    "tslib": "^2.0.0",
+    "zone.js": "~0.11.4"
+  },
+  "devDependencies": {
+    "@angular/compiler-cli": "~13.0.0",
+    "@types/node": "^12.11.7",
+    "@types/jasmine": "~3.6.0",
+    "@types/jasminewd2": "~2.0.8",
+    "typescript": "~4.4.2"
+  },
+  "engines": {
+    "node": ">=12.0.0"
+  }
+}
